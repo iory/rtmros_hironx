@@ -393,7 +393,7 @@ const double AcceptanceTest_Hiro::rpy_l_x_far_y_far[3] =  {-3.075954857224205, -
 const double AcceptanceTest_Hiro::pos_r_x_far_y_far[3] =  {0.4755337947019357, -0.17242322190721648, 1.0476395479774052};
 const double AcceptanceTest_Hiro::rpy_r_x_far_y_far[3] =  {3.0715850722714944, -1.5690204449882248, -3.071395243174742};
 
-const double AcceptanceTest_Hiro::TASK_DURATION_DEFAULT = 4.0;
+const double AcceptanceTest_Hiro::TASK_DURATION_DEFAULT = 7.0;
 const double AcceptanceTest_Hiro::DURATION_EACH_SMALLINCREMENT = 0.1;
 const double AcceptanceTest_Hiro::TASK_DURATION_TORSO = AcceptanceTest_Hiro::TASK_DURATION_DEFAULT;
 const double AcceptanceTest_Hiro::TASK_DURATION_HEAD = AcceptanceTest_Hiro::TASK_DURATION_DEFAULT;
